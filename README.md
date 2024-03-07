@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;7+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=00C2FF&vCenter=true&size=45%22"></img>
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/happylife1dev/happylife1dev/blob/git_happylife1dev_profile_readme/busyprogrammer.gif?raw=true" width="50%" height="auto" />
+<img align="right" alt="GIF" src="https://github.com/happylife1dev/happylife1dev/blob/master/busyprogrammer.gif?raw=true" width="50%" height="auto" />
 
 
 ### ☎️ Contact me
