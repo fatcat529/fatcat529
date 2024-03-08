@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
   </a>
-  <a href="https://github.com/happylife1dev?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/happylife1dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+  <a href="https://github.com/happylifesdev?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/happylifesdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
   </a>
 </p>
 
@@ -18,14 +18,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;7+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=00C2FF&vCenter=true&size=45%22"></img>
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/happylife1dev/happylife1dev/blob/master/busyprogrammer.gif?raw=true" width="50%" height="auto" />
+<img align="right" alt="GIF" src="https://github.com/happylifesdev/happylifesdev/blob/master/busyprogrammer.gif?raw=true" width="50%" height="auto" />
 
 
 ### ☎️ Contact me
 *   <p><b>Phone:</b> +1 281 896 0915</p>
 *   <p><b>WhatsApp:</b> +1 281 896 0915</p>
-*   <p><b>Telegram:</b> @happylife1dev</p>
-*   <p><b>Discord:</b> happylife1dev</p>
+*   <p><b>Telegram:</b> @happylifesdev</p>
+*   <p><b>Discord:</b> happylifesdev</p>
 *   <p><b>Skype:</b> live:.cid.af598e55fe274550</p>
 
 ### 🏆 Experience
@@ -38,7 +38,7 @@
 
 <!-- ### 🧑 A little more about me
 *   <p><b>LinkedIn:</b> https://linkedin.com/in/cristian-diaz-torres-593793294</p>
-*   <p><b>Portfolio:</b> https://happylife1dev.github.io</p> -->
+*   <p><b>Portfolio:</b> https://happylifesdev.github.io</p> -->
 
 ### ✒Tech Stack
 
@@ -130,5 +130,5 @@
     </tr>
   </tbody>
 </table>
-<!-- <p align="center"> <a href="https://github.com/happylife1dev"><img src="https://github-profile-trophy.vercel.app/?username=happylife1dev&margin-w=5&theme=onedark" alt="Cristian Diaz Torres" /></a> </p> -->
+<!-- <p align="center"> <a href="https://github.com/happylifesdev"><img src="https://github-profile-trophy.vercel.app/?username=happylifesdev&margin-w=5&theme=onedark" alt="Cristian Diaz Torres" /></a> </p> -->
 
