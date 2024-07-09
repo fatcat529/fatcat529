@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
   </a>
-  <a href="https://github.com/happylifesdev?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/happylifesdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+  <a href="https://github.com/fatcat529?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/fatcat529?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
   </a>
 </p>
 
@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;7+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=00C2FF&vCenter=true&size=45%22"></img>
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/happylifesdev/happylifesdev/blob/master/busyprogrammer.gif?raw=true" width="50%" height="auto" />
+<img align="right" alt="GIF" src="https://github.com/fatcat529/fatcat529/blob/master/busyprogrammer.gif?raw=true" width="50%" height="auto" />
 
 
 ### ☎️ Contact me
@@ -37,7 +37,7 @@
 
 <!-- ### 🧑 A little more about me
 *   <p><b>LinkedIn:</b> https://linkedin.com/in/cristian-diaz-torres-593793294</p>
-*   <p><b>Portfolio:</b> https://happylifesdev.github.io</p> -->
+*   <p><b>Portfolio:</b> https://fatcat529.github.io</p> -->
 
 ### ✒Tech Stack
 
@@ -129,5 +129,5 @@
     </tr>
   </tbody>
 </table>
-<!-- <p align="center"> <a href="https://github.com/happylifesdev"><img src="https://github-profile-trophy.vercel.app/?username=happylifesdev&margin-w=5&theme=onedark" alt="Cristian Diaz Torres" /></a> </p> -->
+<!-- <p align="center"> <a href="https://github.com/fatcat529"><img src="https://github-profile-trophy.vercel.app/?username=fatcat529&margin-w=5&theme=onedark" alt="Cristian Diaz Torres" /></a> </p> -->
 
