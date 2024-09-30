@@ -22,7 +22,6 @@
 
 
 ### ☎️ Contact me
-*   <p><b>WhatsApp:</b> +1 281 896 0915</p>
 *   <p><b>Telegram:</b> @fatcat529</p>
 *   <p><b>Discord:</b> fatcat529</p>
 *   <p><b>Skype:</b> live:.cid.af598e55fe274550</p>
